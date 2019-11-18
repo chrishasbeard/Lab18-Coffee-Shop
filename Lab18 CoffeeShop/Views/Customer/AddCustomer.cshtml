@@ -1,0 +1,25 @@
+﻿<link href="~/css/CustomerStyleSheet.css" rel="stylesheet" />
+
+@{
+    ViewData["Title"] = "AddCustomer";
+}
+
+<h1>AddCustomer</h1>
+
+<form action="../Customer/DisplayCustomer" method="post">
+
+    <input type="text" name="FirstName" value="" placeholder="First Name" /> <br />
+    <input type="text" name="LastName" value="" placeholder="Last Name" /> <br />
+
+    <input type="text" name="Email" value="" placeholder="Email" /> <br />
+
+    <input type="tel" name="name" value="" placeholder="Phone #" />
+    <br />
+    <input type="submit" class="btn-outline-success" value="Submizzle!" />
+    <br />
+    <br />
+    <br />
+    <h1 class="textBox">December 1st is coming, will you be ready?</h1>
+    @Html.ValidationSummary()
+</form>
+
