@@ -1,7 +1,9 @@
-﻿body {
-    background-image: url("../media/greenplant.jpg");
-    background-size: cover;
-}
+﻿
  .textBox{
      text-align: center;
  }
+
+body{
+    background-image: url('../media/coffeepour.jpeg');
+ 
+}

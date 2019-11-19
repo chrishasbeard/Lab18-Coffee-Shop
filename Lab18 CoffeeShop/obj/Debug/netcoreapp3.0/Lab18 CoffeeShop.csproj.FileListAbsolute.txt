@@ -2,7 +2,6 @@ C:\Users\Holmes HQ\source\repos\Lab18 CoffeeShop\Lab18 CoffeeShop\bin\Debug\netc
 C:\Users\Holmes HQ\source\repos\Lab18 CoffeeShop\Lab18 CoffeeShop\bin\Debug\netcoreapp3.0\appsettings.json
 C:\Users\Holmes HQ\source\repos\Lab18 CoffeeShop\Lab18 CoffeeShop\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
 C:\Users\Holmes HQ\source\repos\Lab18 CoffeeShop\Lab18 CoffeeShop\bin\Debug\netcoreapp3.0\Lab18 CoffeeShop.exe
-C:\Users\Holmes HQ\source\repos\Lab18 CoffeeShop\Lab18 CoffeeShop\obj\Debug\netcoreapp3.0\Lab18 CoffeeShop.csprojAssemblyReference.cache
 C:\Users\Holmes HQ\source\repos\Lab18 CoffeeShop\Lab18 CoffeeShop\obj\Debug\netcoreapp3.0\staticwebassets\Lab18 CoffeeShop.StaticWebAssets.Manifest.cache
 C:\Users\Holmes HQ\source\repos\Lab18 CoffeeShop\Lab18 CoffeeShop\obj\Debug\netcoreapp3.0\staticwebassets\Lab18 CoffeeShop.StaticWebAssets.xml
 C:\Users\Holmes HQ\source\repos\Lab18 CoffeeShop\Lab18 CoffeeShop\obj\Debug\netcoreapp3.0\Lab18 CoffeeShop.RazorAssemblyInfo.cache
@@ -128,3 +127,4 @@ C:\Users\Holmes HQ\source\repos\Lab18 CoffeeShop\Lab18 CoffeeShop\obj\Debug\netc
 C:\Users\Holmes HQ\source\repos\Lab18 CoffeeShop\Lab18 CoffeeShop\obj\Debug\netcoreapp3.0\Razor\Views\Customer\AddCustomer.cshtml.g.cs
 C:\Users\Holmes HQ\source\repos\Lab18 CoffeeShop\Lab18 CoffeeShop\obj\Debug\netcoreapp3.0\Razor\Views\Customer\DisplayStudent.cshtml.g.cs
 C:\Users\Holmes HQ\source\repos\Lab18 CoffeeShop\Lab18 CoffeeShop\obj\Debug\netcoreapp3.0\Razor\Views\Customer\DisplayCustomer.cshtml.g.cs
+C:\Users\Holmes HQ\source\repos\Lab18 CoffeeShop\Lab18 CoffeeShop\obj\Debug\netcoreapp3.0\Lab18 CoffeeShop.csprojAssemblyReference.cache
